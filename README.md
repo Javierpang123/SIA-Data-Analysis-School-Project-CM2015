@@ -1,4 +1,4 @@
-My Data Analysis Report Research Topic on "Tracing Sentiment Accuracy, Word Choice, and the Impact of Award Cycles on Singapore Airlines' Rating"
+## Data Analysis Report Research Topic on "Tracing Sentiment Accuracy, Word Choice, and the Impact of Award Cycles on Singapore Airlines' Rating"
 Scored a grade of 86/100, graded by the University of London.
 
 Expectations of the research analysis:
